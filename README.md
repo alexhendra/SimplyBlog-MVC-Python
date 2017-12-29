@@ -5,6 +5,9 @@ SimplyBlog is CMS with design pattern MVC
 1. Blog template by Aigars, colorlib (https://colorlib.com/wp/author/aigars-silkalns/)
 2. Dashboard template by Ondrej, Bootstrapious (https://bootstrapious.com)
 
+### Run Docker :
+sudo docker-compose up --build
+
 Feel free to use this CMS
 
 Thanks
